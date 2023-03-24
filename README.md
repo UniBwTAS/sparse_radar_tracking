@@ -23,5 +23,7 @@ P. Berthold, M. Michaelis, T. Luettel, D. Meissner and H.-J. Wuensche, “[Proba
   volume    = {17},
   number    = {2},
   pages     = {116-139},
+  issn      = {1557-6418},
+  url       = {https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/Pages from JAIF-v17-i2-4_4.pdf},
 }
 ```
